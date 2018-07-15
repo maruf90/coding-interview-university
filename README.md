@@ -170,7 +170,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ---
 
-## Why use it?
+ Why use it?
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
